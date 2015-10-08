@@ -35,10 +35,11 @@ docker run -it --rm my-image npm test
 ```
 
 ## License
-docker-npm-onbuild is licensed under the MIT license.  See [LICENSE](LICENSE)
-for the full license text.
+docker-npm-onbuild is licensed under the MIT license.  See [LICENSE] for the full
+license text.
 
 [node.js]: http://nodejs.org/
 [npm]: https://www.npmjs.org/
 [ONBUILD]: https://docs.docker.com/reference/builder/#onbuild
 [npm-build]: https://github.com/nubs/docker-npm-build
+[LICENSE]: https://github.com/nubs/docker-npm-onbuild/blob/master/LICENSE
